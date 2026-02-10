@@ -1,0 +1,25 @@
+{
+  "name": "Dr. Rudagi's Dental Centre of Xcellence",
+  "short_name": "Dr. Rudagi Dental",
+  "description": "Award-winning dental care with Dr. Kavitarani Bhimappa Rudagi in Ravet, Pimpri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "categories": ["health", "medical", "dental"],
+  "lang": "en",
+  "dir": "ltr"
+} 
